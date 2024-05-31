@@ -1,7 +1,7 @@
 # CRUD HOTEL
 
 Projeto que tem como função colocar em prática um CRUD em C#, para por em prática aprendizados na linguagem e seus frameworks
-![Projeto Hotel](hotel)
+![Projeto Hotel](/hotel.png)
 
 # Tecnologias utilizadas
 
