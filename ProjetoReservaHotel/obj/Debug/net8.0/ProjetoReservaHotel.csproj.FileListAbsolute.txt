@@ -251,3 +251,5 @@ C:\Users\ALESF\Desktop\FlavioF\C#\ProjetoReservaHotel\ProjetoReservaHotel\obj\De
 C:\Users\ALESF\Desktop\FlavioF\C#\ProjetoReservaHotel\ProjetoReservaHotel\obj\Debug\net8.0\ProjetoReservaHotel.pdb
 C:\Users\ALESF\Desktop\FlavioF\C#\ProjetoReservaHotel\ProjetoReservaHotel\obj\Debug\net8.0\ProjetoReservaHotel.genruntimeconfig.cache
 C:\Users\ALESF\Desktop\FlavioF\C#\ProjetoReservaHotel\ProjetoReservaHotel\obj\Debug\net8.0\ref\ProjetoReservaHotel.dll
+C:\Users\ALESF\Desktop\FlavioF\C#\ProjetoReservaHotel\ProjetoReservaHotel\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\ALESF\Desktop\FlavioF\C#\ProjetoReservaHotel\ProjetoReservaHotel\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
