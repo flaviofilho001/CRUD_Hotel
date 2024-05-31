@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using ProjetoReservaHotel.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<ProjetoReservaHotelContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ProjetoReservaHotelContext") ?? throw new InvalidOperationException("Connection string 'ProjetoReservaHotelContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
