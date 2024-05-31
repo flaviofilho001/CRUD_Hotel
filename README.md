@@ -1,6 +1,5 @@
 # CRUD HOTEL
 
-Projeto que tem como função colocar em prática um CRUD em C#, para por em prática aprendizados na linguagem e seus frameworks
 ![Projeto Hotel](/hotel.png)
 
 # Tecnologias utilizadas
@@ -15,4 +14,4 @@ Projeto que tem como função colocar em prática um CRUD em C#, para por em pr�
 
 # Descrição
 
-O presente projeto é um site de um hotel que tem um CRUD para realizar reservas e cadastro dos clientes e a tela HTML para isso
+O presente projeto é um site de um hotel para colocar em prática conhecimentos da linguagem para criação de um CRUD e HTML. Ademais, o CRUD é para realizar reservas e cadastro dos clientes e a tela HTML para exibir isso.
