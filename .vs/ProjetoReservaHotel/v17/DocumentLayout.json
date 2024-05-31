@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Migrations\\20240531030620_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjetoReservaHotel\\Migrations\\20240531030620_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\projetoreservahotel\\projetoreservahotel\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|solutionrelative:projetoreservahotel\\views\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\projetoreservahotel\\projetoreservahotel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|solutionrelative:projetoreservahotel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\projetoreservahotel\\projetoreservahotel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|solutionrelative:projetoreservahotel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\projetoreservahotel\\projetoreservahotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-minty.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|solutionrelative:projetoreservahotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-minty.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\projetoreservahotel\\projetoreservahotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|solutionrelative:projetoreservahotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\projetoreservahotel\\projetoreservahotel\\migrations\\20240531030620_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|solutionrelative:projetoreservahotel\\migrations\\20240531030620_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4E569B6B-E2D1-40B2-BA34-0ED367378948}|ProjetoReservaHotel\\ProjetoReservaHotel.csproj|c:\\users\\alesf\\desktop\\flaviof\\c#\\projetoreservahotel\\projetoreservahotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,6 +55,70 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Views\\Reservas\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoReservaHotel\\Views\\Reservas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Views\\Reservas\\Index.cshtml",
+              "RelativeToolTip": "ProjetoReservaHotel\\Views\\Reservas\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T03:41:32.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjetoReservaHotel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjetoReservaHotel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T03:40:02.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bootstrap-minty.css",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-minty.css",
+              "RelativeDocumentMoniker": "ProjetoReservaHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-minty.css",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-minty.css",
+              "RelativeToolTip": "ProjetoReservaHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-minty.css",
+              "ViewState": "AQIAAGovAAAAAAAAAAAcwHMvAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-31T03:35:56.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjetoReservaHotel\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjetoReservaHotel\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T03:27:19.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "ProjetoReservaHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "ProjetoReservaHotel\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-31T03:22:21.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "20240531030620_Initial.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Migrations\\20240531030620_Initial.cs",
               "RelativeDocumentMoniker": "ProjetoReservaHotel\\Migrations\\20240531030620_Initial.cs",
@@ -42,12 +126,11 @@
               "RelativeToolTip": "ProjetoReservaHotel\\Migrations\\20240531030620_Initial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T03:06:20.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T03:06:20.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ReservasController.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Controllers\\ReservasController.cs",
               "RelativeDocumentMoniker": "ProjetoReservaHotel\\Controllers\\ReservasController.cs",
@@ -55,12 +138,11 @@
               "RelativeToolTip": "ProjetoReservaHotel\\Controllers\\ReservasController.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAA9wFoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T02:57:43.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T02:57:43.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ProjetoReservaHotelContext.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Data\\ProjetoReservaHotelContext.cs",
               "RelativeDocumentMoniker": "ProjetoReservaHotel\\Data\\ProjetoReservaHotelContext.cs",
@@ -68,12 +150,11 @@
               "RelativeToolTip": "ProjetoReservaHotel\\Data\\ProjetoReservaHotelContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T02:54:02.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T02:54:02.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\appsettings.json",
               "RelativeDocumentMoniker": "ProjetoReservaHotel\\appsettings.json",
@@ -81,12 +162,11 @@
               "RelativeToolTip": "ProjetoReservaHotel\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABrAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-31T02:50:00.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T02:50:00.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ALESF\\Desktop\\FlavioF\\C#\\ProjetoReservaHotel\\ProjetoReservaHotel\\Program.cs",
               "RelativeDocumentMoniker": "ProjetoReservaHotel\\Program.cs",
@@ -94,8 +174,7 @@
               "RelativeToolTip": "ProjetoReservaHotel\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T02:49:00.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T02:49:00.345Z"
             }
           ]
         }
